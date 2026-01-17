@@ -22,3 +22,7 @@ An automated API monitoring system that categorizes defects (Network vs. Logic v
 5. Run monitor: `python3 scripts/api_monitor.py`
 
 ##  Dashboard Preview
+
+<img width="1173" height="1059" alt="Screenshot 2569-01-18 at 02 18 05" src="https://github.com/user-attachments/assets/2cfa173e-4d60-45ca-818d-ee8371a646ef" />
+
+<img width="1094" height="865" alt="Screenshot 2569-01-18 at 02 18 27" src="https://github.com/user-attachments/assets/87a60eb7-c5eb-40ac-8063-827875635152" />
